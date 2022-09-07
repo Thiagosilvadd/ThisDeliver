@@ -1,4 +1,4 @@
-package com.thiagodev.ThisDeliver;
+package com.thiagodev.ThisDeliver.dto;
 
 import com.thiagodev.ThisDeliver.entities.Product;
 
